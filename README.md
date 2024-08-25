@@ -3,7 +3,8 @@
 <div>
   <a href="https://github.com/Miguel-Frnds">
   <img heigth="180em" src="https://github-readme-stats.vercel.app/api?username=Miguel-Frnds&show_icons=true&theme=github_dark">
-  <img  height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Miguel-Frnds&theme=github_dark">
+    <br>
+  <img  height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Miguel-Frnds&layout=compact">
   <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
 </div>
 
